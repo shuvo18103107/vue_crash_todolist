@@ -1,4 +1,5 @@
 # vue_crash_todolist
+just practice and learned about  Vue.js including what it is, Vue-CLI, components, data, events, directives, etc
 
 ## Project setup
 ```
